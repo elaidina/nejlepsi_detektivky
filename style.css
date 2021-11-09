@@ -49,6 +49,13 @@ nav ul li a {
 
 nav span {
   padding: 1rem;
+  color: #f3d5d6;
+  font-family: "Raleway", sans-serif;
+  font-size: 25px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  background-color: black;
+  border-radius: 10rem;
 }
 
 .hero {
