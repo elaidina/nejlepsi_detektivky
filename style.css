@@ -63,6 +63,12 @@ nav span {
   height: 80vh;
 }
 
+.heroimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .right {
   width: 50vw;
 }
